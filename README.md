@@ -1,7 +1,7 @@
 ### Olá! Eu sou Victor Barros 👋
 
 - 🔭 Hoje trabalho com logística portuária, mas pretendo migrar para área de programação.
-- 🌱 Atualmente estou fazendo minha 2º graduação em Análise e Desenvolvimento de Sistema, na Estácio - 2 semestre.
+- 🌱 Atualmente estou fazendo minha 2º graduação em Análise e Desenvolvimento de Sistemas, na Estácio - 2 semestre.
 - 📫 Contate-me no email: victorbarros396@gmail.com
 
 <div align="center">
